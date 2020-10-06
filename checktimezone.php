@@ -1,5 +1,5 @@
 <?php
-echo 1;exit;//
+echo 123;exit;//
 $user_ip = getenv('REMOTE_ADDR'); 
 ////$geo = file_get_contents("http://api.ipstack.com/".$_SERVER['REMOTE_ADDR']."?access_key=09111af3ea5a4fc0c10d12dfdabe77b9"); 
 ////$geo = file_get_contents("http://api.ipstack.com/223.191.16.14?access_key=09111af3ea5a4fc0c10d12dfdabe77b9"); 
